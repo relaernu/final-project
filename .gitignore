@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+
+py/__pycache__
+__pycache__
+data/bitstamp*
